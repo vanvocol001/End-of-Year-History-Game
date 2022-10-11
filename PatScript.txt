@@ -1,0 +1,152 @@
+//
+Ah, yes, you always did hate the Crown! 
+That’s why you came here in fact, to escape 
+the crown’s rule! Wait, what’s that on the horizon? 
+As you look forward, you realize it’s land! 
+It’s time to begin your story.
+//
+//
+A few months have passed, and you’ve managed
+to land a job at a printing press for a tiny 
+newspaper called the Boston Times! You feel 
+like you should bring in some tea in order to 
+impress and befriend your coworkers, but the 
+Crown recently just enacted the Townshend Acts 
+in the colonies! These Acts placed a heavy tax 
+on tea, paper, glass, and all sorts of other 
+goods. Additionally, it enforced the 
+Quartering Act, a law that made it that 
+colonists had to let British troops stay in 
+their home and feed them! There are rumors 
+that these acts were solely created to put 
+money in the British treasury, which has 
+caused many to call for these acts to be 
+struck down through protests and violence. So, 
+what will you do?
+//
+//
+DECISION-mi10r10-noneA
+//
+//
+As you walk into your workplace, you are 
+shocked to see your coworkers all huddled 
+together! You approach them, asking what’s 
+going on, and they tell you the most heinous 
+thing you’ve ever heard. Apparently, British 
+troops began firing on a group of protestors, 
+leaving 5 dead and more wounded. This event is 
+being called the Boston Massacre, and has done 
+nothing but further sour colonist-Crown 
+relations. Your coworkers want to run the 
+story, but doing so would risk heavy fines or 
+even imprisonment by the Crown! You could 
+choose to not run it, but doing so would make 
+many colonists lose respect for your paper. 
+The office is split on what to do, which 
+leaves the tie-breaking vote up to you. What 
+do you do?
+//
+//
+DECISION-mi20r10-ri10A
+//
+//
+The streets of Boston are filled with rumors 
+of an upcoming protest! On December 16th, 
+colonists are going to disguise themselves 
+as Native Americans and throw tea into the 
+Boston Harbor in protest of the new Tea Act! 
+It’s creatively being called the 
+“Boston Tea Party”. It’s being organized by 
+the Sons of Liberty, a group that believe 
+the colonies shouldn’t be taxed without proper 
+representation in Parliament! In fact, one of 
+your coworkers is a member, and has asked you 
+if you want to join in on the protest! 
+What do you do?
+//
+//
+DECISION-mi20r30-ri10B
+//
+//
+You’ve just received the most terrible news! 
+The crown has pushed through a series of acts 
+and tariffs that impose harsh and cruel rules 
+onto the American People! Boston Harbor has 
+been closed, troops are being stationed in 
+every house, and the crown has stripped away 
+Massachusetts’ autonomy! Protests are 
+happening throughout every city, and the 
+people are claiming this is violating their 
+natural rights! As manager of the Boston 
+Times, you have 2 choices on what to print. 
+You can either print an article harshly 
+criticizing the Parliament, or write a more 
+objective view of what is currently happening. 
+Remember, the crown doesn’t take too kindly to 
+criticism, and will likely fine you if you 
+print the one that criticizes it. However, the 
+people want their actions re-affirmed, and might 
+not trust you as much for printing 
+something so neutral. What do you do?
+//
+//
+DECISION-mi20r20-m20ri20
+//
+//
+Following the injustices committed by the 
+British Crown in the previous months, the 
+Colonies finally have an opportunity to come 
+together to discuss what needs to be done. A 
+meeting of delegates from each of the colonies has 
+formed in Philadelphia. As a representative of 
+Massachusetts you have the 
+chance to advocate for either a more 
+independent position from England or convince 
+your fellow Colonists that they’re being 
+unreasonable. A push for greater independence 
+would come with a complete boycott of all 
+British goods and a petition for change, while 
+siding with the Crown would delay efforts for 
+change and bring the congressional meeting to a 
+standstill. The choice might at first seem obvious, 
+but you still have your doubts. What do you do?
+//
+//
+DECISION-pmi10r30-ri30
+//
+//
+With the Boston Times being known as a 
+pro-revolution paper, and having found large 
+success under your direction, you’ve been 
+invited to the Second Virginia Convention in 
+order to report and vote on the issues being 
+discussed! You are surprised by the amount of 
+notable figures here, from George Washington 
+and Thomas Jefferson to even Patrick Henry! In fact,
+Patrick Henry is getting prepared to 
+deliver a speech to the delegates there! As 
+you sit down, you unwittingly find that you 
+have managed to catch a front row seat to the 
+now-famous “Liberty or Death” speech, a speech in 
+which Henry rouses the flames of rebellion among 
+the delegates, and advocates for separation from 
+the crown. As he finishes his speech crying “Give 
+me Liberty, or give me Death!”, you almost find 
+yourself moved to tears. You were able to write 
+down the entirety of your speech, and now find 
+yourself with the hardest decision of your career. 
+Do you publish the speech, or not? If you publish 
+it, you’ll be directly calling for open rebellion 
+against the crown, and you’ll have to deal with the 
+fines and issues that come from it. If you don’t 
+publish it, the public won’t know you didn’t print 
+it, but those around you will, and these are the 
+people whose opinions matter the most. This could 
+perhaps be your most significant contribution to 
+the rebellion yet. What do you do?
+//
+//
+DECISION-mi40r40-ri30
+//
+//
+ENDING1

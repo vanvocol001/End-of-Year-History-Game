@@ -1,0 +1,111 @@
+//
+Ah, yes, you always did love the Crown! 
+That’s why you came here in fact, to ensure the 
+crown’s success! Wait, what’s that on the horizon? 
+As you look forward, you realize it’s land! It’s 
+time to begin your story.
+//
+//
+A short while has passed and you were able to 
+find a role within a guard patrol of the 
+British army. The job itself should be largely 
+uneventful as the British Empire itself has a 
+thorough hold on all of its colonies and financial 
+pursuits. One day while on patrol you see a tea 
+vendor arguing with a citizen. The problem seems to 
+be that the person refuses to pay a tax on tea as 
+part of the newly established Townshend Acts by the 
+British Crown. These Acts placed a heavy tax on tea,
+paper, glass, and all sorts of other goods. 
+Additionally, it enforced the 
+Quartering Act, a law that made it that 
+colonists had to let British troops stay in 
+their home and feed them! You want to keep the 
+peace but keep your loyalty.
+//
+//
+DECISION-mi10l10-l30A
+//
+//
+While out on patrol one morning, you see a 
+newsstand preparing to sell the daily paper. 
+According to the headline, the night before, 
+British troops began firing on a group of 
+protestors, leaving 5 dead and more wounded, 
+an event being called the Boston Massacre by 
+the paper. You’ve heard that the situation was 
+likely to be overdramatized in order to purposely 
+sour colonist-Crown relations. You 
+know you were trained to arrest people who 
+create conspiracies related to the Crown, but 
+the story would get out no matter what. Not 
+doing anything could create more financial problems.
+It’s your choice. What do you do?
+//
+// 
+DECISION-mi20l20A-li20A
+//
+//
+The streets of Boston are filled with rumors 
+of an upcoming protest! It’s been said that on 
+December 16th, colonists are going to disguise 
+themselves as Native Americans and throw tea 
+into the Boston Harbor in protest of the new 
+Tea Act! Your captain believes that a lack of 
+representation in parliament isn’t something 
+desired by colonists, and because of this has 
+given you the option of protecting the harbor 
+or doing regular patrol during the protest. If 
+left unchecked the protest’s influence could 
+get out of hand, but what if something were to 
+happen elsewhere at the same time? It’s 
+entirely your choice. What do you do?
+//
+//
+DECISION-l30B-li20B
+//
+//
+The British Crown has passed a series of acts 
+and tariffs meant to quell the rebellious 
+sentiments circulating throughout the colonies 
+and restore some semblance of peace. 
+Massachusetts is currently in a state of 
+disorder with protests and general civil 
+unrest dominating most, if not all, of the 
+city. Even in these unprecedented times, you 
+know that media coverage is everything, and 
+you’ve heard rumors that the local paper’s new piece
+could either harshly question the actions of the 
+British Crown or take a more objective view in 
+their reporting. You could use your influence in 
+the British Army to force the paper into releasing 
+a neutral article, but that just might further 
+upset citizens and fan the flames of rebellion. But 
+then again, you’ve seen firsthand the negative 
+results of the Crown’s decisions, making your 
+decision a difficult one. What do you do?
+//
+//
+DECISION-mi20l30B-li20C
+//
+//
+Through your various sources inside the 
+growing ‘rebellion’, you’ve heard that 
+delegates from every state are coming together in 
+Philadelphia to hold a Continental Congress! 
+However, what concerns you is what they will be 
+talking about. They will most likely be discussing 
+the Crown and the tariffs, but they might also 
+discuss the possibility of independence from the 
+crown! You find this unacceptable, and wish to stop 
+these talks from happening, but stopping the 
+meeting could just sour crown-colonist 
+relations more. The state of the Colonies as a 
+whole could depend on this one moment. What do you 
+do?
+//
+//
+DECISION-mi20l20B-li20D
+//
+//
+ENDING2

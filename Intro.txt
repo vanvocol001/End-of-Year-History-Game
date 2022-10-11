@@ -1,0 +1,20 @@
+//
+Press the spacebar to continue throughout this game
+and the mouse only to click on a choice.
+The objective of this game is to not run out of gold 
+or reputation.
+//
+You begin your journey on a boat fresh out of 
+a British harbor. You are heading to the 
+Americas, in hopes of a fresh start and new 
+opportunities. As you feel the rhythmic waves
+rock the vessel, you can only feel the excitement 
+grow within you.
+//
+A few months have passed since you first boarded 
+this vessel, and you are overjoyed to hear that 
+in only a few days you will be setting foot in 
+the colonies! As you peer off into the horizon, 
+you reflect on who you will be when you come to 
+the Americas
+DECISION-P-L
